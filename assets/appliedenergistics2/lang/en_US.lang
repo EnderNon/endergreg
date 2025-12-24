@@ -1,0 +1,644 @@
+# Blocks
+tile.appliedenergistics2.BlockCableBus.name=§dAE2 Cable and/or Bus
+tile.appliedenergistics2.BlockCellWorkbench.name=§dCell Workbench
+tile.appliedenergistics2.BlockCharger.name=§dCharger
+tile.appliedenergistics2.BlockChest.name=§dME Chest
+tile.appliedenergistics2.BlockCondenser.name=§dMatter Condenser
+tile.appliedenergistics2.BlockController.name=§dME Controller
+tile.appliedenergistics2.BlockCrank.name=§dWooden Crank
+tile.appliedenergistics2.BlockCreativeEnergyCell.name=§dCreative Energy Cell
+tile.appliedenergistics2.BlockDenseEnergyCell.name=§dDense Energy Cell
+tile.appliedenergistics2.BlockEnergyCell.name=§dEnergy Cell
+tile.appliedenergistics2.BlockDrive.name=§dME Drive
+tile.appliedenergistics2.BlockEnergyAcceptor.name=§dEnergy Acceptor
+tile.appliedenergistics2.BlockGrinder.name=§dQuartz Grindstone
+tile.appliedenergistics2.BlockMatrixFrame.name=§dMatrix Frame
+tile.appliedenergistics2.BlockIOPort.name=§dME IO Port
+tile.appliedenergistics2.BlockInscriber.name=§dInscriber
+tile.appliedenergistics2.BlockInterface.name=§dME Interface
+tile.appliedenergistics2.BlockQuantumLinkChamber.name=§dME Quantum Link Chamber
+tile.appliedenergistics2.BlockQuantumRing.name=§dME Quantum Ring
+tile.appliedenergistics2.BlockFluix.name=§dFluix Block
+tile.appliedenergistics2.BlockQuartz.name=§dCertus Quartz Block
+tile.appliedenergistics2.BlockQuartzChiseled.name=§dChiseled Certus Quartz Block
+tile.appliedenergistics2.BlockQuartzGlass.name=§dQuartz Glass
+tile.appliedenergistics2.BlockQuartzLamp.name=§dVibrant Quartz Glass
+tile.appliedenergistics2.BlockQuartzPillar.name=§dCertus Quartz Pillar
+tile.appliedenergistics2.BlockQuartzTorch.name=§dCharged Quartz Fixture
+tile.appliedenergistics2.BlockLightDetector.name=§dLight Detecting Fixture
+tile.appliedenergistics2.BlockSpatialIOPort.name=§dSpatial IO Port
+tile.appliedenergistics2.BlockSpatialPylon.name=§dSpatial Pylon
+tile.appliedenergistics2.BlockTinyTNT.name=§dTiny TNT
+tile.appliedenergistics2.BlockVibrationChamber.name=§dVibration Chamber
+tile.appliedenergistics2.BlockWireless.name=§dME Wireless Access Point
+tile.appliedenergistics2.OreQuartz.name=§dCertus Quartz Ore
+tile.appliedenergistics2.OreQuartzCharged.name=§dCharged Certus Quartz Ore
+tile.appliedenergistics2.BlockSecurity.name=§dME Security Terminal
+tile.appliedenergistics2.BlockQuartzGrowthAccelerator.name=§dCrystal Growth Accelerator
+tile.appliedenergistics2.BlockSkyStone.name=§dSky Stone
+tile.appliedenergistics2.BlockSkyStone.Block.name=§dSky Stone Block
+tile.appliedenergistics2.BlockSkyStone.Brick.name=§dSky Stone Brick
+tile.appliedenergistics2.BlockSkyStone.SmallBrick.name=§dSky Stone Small Brick
+tile.appliedenergistics2.BlockSkyChest.name=§dSky Stone Chest
+tile.appliedenergistics2.BlockSkyChest.Block.name=§dSky Stone Block Chest
+tile.appliedenergistics2.BlockSkyCompass.name=§dMeteorite Compass
+tile.appliedenergistics2.BlockCraftingMonitor.name=§dCrafting Monitor
+tile.appliedenergistics2.BlockCraftingStorage.name=§d1k Crafting Storage
+tile.appliedenergistics2.BlockCraftingStorage4k.name=§d4k Crafting Storage
+tile.appliedenergistics2.BlockCraftingStorage16k.name=§d16k Crafting Storage
+tile.appliedenergistics2.BlockCraftingStorage64k.name=§d64k Crafting Storage
+tile.appliedenergistics2.BlockCraftingAccelerator.name=§dCrafting Co-Processing Unit
+tile.appliedenergistics2.BlockCraftingUnit.name=§dCrafting Unit
+tile.appliedenergistics2.BlockMolecularAssembler.name=§dMolecular Assembler
+
+# Stairs
+tile.appliedenergistics2.ChiseledQuartzStairBlock.name=§dChiseled Certus Quartz Stairs
+tile.appliedenergistics2.FluixStairBlock.name=§dFluix Stairs
+tile.appliedenergistics2.QuartzPillarStairBlock.name=§dCertus Quartz Pillar Stairs
+tile.appliedenergistics2.QuartzStairBlock.name=§dCertus Quartz Stairs
+tile.appliedenergistics2.SkyStoneBlockStairBlock.name=§dSky Stone Block Stairs
+tile.appliedenergistics2.SkyStoneBrickStairBlock.name=§dSky Stone Brick Stairs
+tile.appliedenergistics2.SkyStoneSmallBrickStairBlock.name=§dSky Stone Small Brick Stairs
+tile.appliedenergistics2.SkyStoneStairBlock.name=§dSky Stone Stairs
+
+# Slabs
+tile.appliedenergistics2.ChiseledQuartzSlabBlock.name=§dChiseled Certus Quartz Slabs
+tile.appliedenergistics2.FluixSlabBlock.name=§dFluix Slabs
+tile.appliedenergistics2.QuartzPillarSlabBlock.name=§dCertus Quartz Pillar Slabs
+tile.appliedenergistics2.QuartzSlabBlock.name=§dCertus Quartz Slabs
+tile.appliedenergistics2.SkyStoneBlockSlabBlock.name=§dSky Stone Block Slabs
+tile.appliedenergistics2.SkyStoneBrickSlabBlock.name=§dSky Stone Brick Slabs
+tile.appliedenergistics2.SkyStoneSmallBrickSlabBlock.name=§dSky Stone Small Brick Slabs
+tile.appliedenergistics2.SkyStoneSlabBlock.name=§dSky Stone Slabs
+
+# Chat Messages
+chat.appliedenergistics2.ChestCannotReadStorageCell=§dME Chest cannot read storage cell.
+chat.appliedenergistics2.SettingCleared=§dSetting Cleared.
+chat.appliedenergistics2.OutOfRange=§dWireless Out Of Range.
+chat.appliedenergistics2.InvalidMachine=§dInvalid Machine.
+chat.appliedenergistics2.LoadedSettings=§dSuccessfully loaded settings.
+chat.appliedenergistics2.DeviceNotPowered=§dDevice is low on power.
+chat.appliedenergistics2.DeviceNotWirelessTerminal=§dDevice is not a wireless terminal.
+chat.appliedenergistics2.DeviceNotLinked=§dDevice is not linked.
+chat.appliedenergistics2.StationCanNotBeLocated=§dStation can not be located.
+chat.appliedenergistics2.MachineNotPowered=§dMachine is not powered.
+chat.appliedenergistics2.CommunicationError=§dError Communicating with Network.
+chat.appliedenergistics2.SavedSettings=§dSuccessfully saved settings.
+chat.appliedenergistics2.AmmoDepleted=§dAmmo Depleted.
+chat.appliedenergistics2.isNowLocked=§dMonitor is now Locked.
+chat.appliedenergistics2.isNowUnlocked=§dMonitor is now Unlocked.
+chat.appliedenergistics2.TunnelNotConnected=§dTunnel is not connected.
+chat.appliedenergistics2.TunnelInputIsAt=§dTunnel input is at (%d, %d, %d)
+chat.appliedenergistics2.TunnelHasNoOutputs=§dTunnel has no outputs.
+chat.appliedenergistics2.TunnelOutputsAreAt=§dTunnel outputs are at:
+chat.appliedenergistics2.InterfaceInOtherDim=§dInterface located at dimension: %d and cant be highlighted
+chat.appliedenergistics2.InterfaceHighlighted=§dThe interface is now highlighted at %d, %d, %d
+# Creative Tabs
+itemGroup.appliedenergistics2=§dApplied Energistics 2
+itemGroup.appliedenergistics2.facades=§dApplied Energistics 2 - Facades
+
+# GUI
+gui.appliedenergistics2.CraftingTerminal=§dCrafting Terminal
+gui.appliedenergistics2.METunnel=§dME
+gui.appliedenergistics2.ItemTunnel=§dItem
+gui.appliedenergistics2.FluidTunnel=§dFluid
+gui.appliedenergistics2.RedstoneTunnel=§dRedstone
+gui.appliedenergistics2.EUTunnel=§dEU
+gui.appliedenergistics2.RFTunnel=§dRF
+gui.appliedenergistics2.LightTunnel=§dLight
+gui.appliedenergistics2.OCTunnel=§dOpenComputers
+gui.appliedenergistics2.PressureTunnel=§dPressure
+gui.appliedenergistics2.GTTunnel=§dGT EU
+
+gui.appliedenergistics2.security.extract.name=§dWithdraw
+gui.appliedenergistics2.security.inject.name=§dDeposit
+gui.appliedenergistics2.security.craft.name=§dCraft
+gui.appliedenergistics2.security.build.name=§dBuild
+gui.appliedenergistics2.security.security.name=§dSecurity
+
+gui.appliedenergistics2.security.extract.tip=§dUser is allowed to remove items from storage.
+gui.appliedenergistics2.security.inject.tip=§dUser is allowed to store new items into storage.
+gui.appliedenergistics2.security.craft.tip=§dUser can initiate new crafting jobs.
+gui.appliedenergistics2.security.build.tip=§dUser can modify the physical structure of the network, and make configuration changes.
+gui.appliedenergistics2.security.security.tip=§dUser can access and modify the security terminal of the network.
+
+gui.appliedenergistics2.Efficiency=§dEfficiency
+gui.appliedenergistics2.RequiredPower=§dRequired Power
+gui.appliedenergistics2.StoredPower=§dStored Power
+gui.appliedenergistics2.MaxPower=§dMax Power
+gui.appliedenergistics2.QuartzCuttingKnife=§dQuartz Cutting Knife
+gui.appliedenergistics2.Inscriber=§dInscriber
+gui.appliedenergistics2.Wireless=§dWireless Access Point
+gui.appliedenergistics2.WirelessTerminal=§dWireless Term
+gui.appliedenergistics2.NoPermissions=§dNo Permissions Selected
+gui.appliedenergistics2.SecurityCardEditor=§dBiometric Card Editor
+gui.appliedenergistics2.Encoded=§dEncoded
+gui.appliedenergistics2.Priority=§dPriority
+gui.appliedenergistics2.StorageBus=§dStorage Bus
+gui.appliedenergistics2.EnergyDrain=§dPassive Drain
+gui.appliedenergistics2.Installed=§dInstalled
+gui.appliedenergistics2.NetworkTool=§dNetwork Tool
+gui.appliedenergistics2.PowerUsageRate=§dEnergy Usage
+gui.appliedenergistics2.PowerInputRate=§dEnergy Generation
+gui.appliedenergistics2.PortableCell=§dPortable Cell
+gui.appliedenergistics2.Security=§dSecurity Term
+gui.appliedenergistics2.CellWorkbench=§dCell Workbench
+gui.appliedenergistics2.QuantumLinkChamber=§dQuantum Link Chamber
+gui.appliedenergistics2.IOPort=§dME IO Port
+gui.appliedenergistics2.Chest=§dME Chest
+gui.appliedenergistics2.Condenser=§dMatter Condenser
+gui.appliedenergistics2.Config=§dConfig
+gui.appliedenergistics2.Drive=§dME Drive
+gui.appliedenergistics2.ExportBus=§dME Export Bus
+gui.appliedenergistics2.GrindStone=§dGrindstone
+gui.appliedenergistics2.ImportBus=§dME Import Bus
+gui.appliedenergistics2.Interface=§dME Interface
+gui.appliedenergistics2.LevelEmitter=§dME Level Emitter
+gui.appliedenergistics2.Of=§dof
+gui.appliedenergistics2.Patterns=§dPatterns
+gui.appliedenergistics2.SpatialIOPort=§dSpatial IO Port
+gui.appliedenergistics2.StoredEnergy=§dStored Energy
+gui.appliedenergistics2.StoredItems=§dStored Items
+gui.appliedenergistics2.Terminal=§d§0Terminal
+gui.appliedenergistics2.InterfaceTerminal=§dInterface Terminal
+gui.appliedenergistics2.InterfaceTerminalHint=§dShow Or Hide on Interface Terminal.
+gui.appliedenergistics2.FormationPlane=§dFormation Plane
+gui.appliedenergistics2.VibrationChamber=§dVibration Chamber
+gui.appliedenergistics2.NetworkDetails=§dNetwork Details
+gui.appliedenergistics2.StorageCells=§dME Storage Cells
+gui.appliedenergistics2.IOBuses=§dME Import/Export Bus
+gui.appliedenergistics2.Stores=§dStores
+gui.appliedenergistics2.BytesUsed=§dBytes Used
+gui.appliedenergistics2.Types=§dTypes
+gui.appliedenergistics2.Blank=§dBlank
+gui.appliedenergistics2.Unlinked=§dUnlinked
+gui.appliedenergistics2.Linked=§dLinked
+gui.appliedenergistics2.StoredSize=§dStored Size
+gui.appliedenergistics2.SkyChest=§dSky Stone Chest
+gui.appliedenergistics2.PatternTerminal=§dPattern Terminal
+gui.appliedenergistics2.PatternTerminalEx=§dProcessing Pattern Terminal
+gui.appliedenergistics2.CraftingPattern=§dCrafting Pattern
+gui.appliedenergistics2.MolecularAssembler=§dMolecular Assembler
+gui.appliedenergistics2.ProcessingPattern=§dProcessing Pattern
+gui.appliedenergistics2.Crafts=§dCrafts
+gui.appliedenergistics2.And=§dand
+gui.appliedenergistics2.Creates=§dCreates
+gui.appliedenergistics2.With=§dwith
+gui.appliedenergistics2.Substitute=§dUsing Substitutions:
+gui.appliedenergistics2.Yes=§dYes
+gui.appliedenergistics2.No§d=§dNo
+gui.appliedenergistics2.InWorldCrafting=§dAE2 In World Crafting
+gui.appliedenergistics2.inWorldFluix=§dDrop 1 Charged Certus Quartz + 1 Nether Quartz + Redstone Dust into a puddle next to one another and wait a moment to receive 2 Fluix Crystals.
+gui.appliedenergistics2.inWorldPurificationCertus=§dDrop a Certus Quartz Seed made from Certus Quartz Dust and Sand into a puddle of water; to make the process faster add Crystal Growth Accelerators.
+gui.appliedenergistics2.inWorldPurificationNether=§dDrop a Nether Quartz Seed made from Nether Quartz Dust and Sand into a puddle of water; to make the process faster add Crystal Growth Accelerators.
+gui.appliedenergistics2.inWorldPurificationFluix=§dDrop a Fluix Seed made from Fluix Dust and Sand into a puddle of water; to make the process faster add Crystal Growth Accelerators.
+gui.appliedenergistics2.inWorldSingularity=§dTo create drop 1 Singularity and 1 Ender Dust and cause an explosion within range of the items.
+gui.appliedenergistics2.ChargedQuartz=§dCharged Certus Quartz is crafted by inserting an uncharged Certus Quartz Crystal into the Charger, and powering it.
+gui.appliedenergistics2.ChargedQuartzFind=§dCharged Certus Quartz can be found in world semi rarely, it appears similar to normal Certus Quartz, except it sparkles.
+gui.appliedenergistics2.NoSecondOutput=§dNo Secondary Output
+gui.appliedenergistics2.OfSecondOutput=§d%1$d%% Chance for second output.
+gui.appliedenergistics2.MultipleOutputs=§d%1$d%% second, %2$d%% third output.
+gui.appliedenergistics2.SelectAmount=§dSelect Amount
+gui.appliedenergistics2.CopyMode=§dCopy Mode
+gui.appliedenergistics2.CopyModeDesc=§dControls if the contents of the configuration pane are cleared when you remove the cell.
+gui.appliedenergistics2.Next=§dNext
+gui.appliedenergistics2.Lumen=§dLumen
+gui.appliedenergistics2.Empty=§dEmpty
+gui.appliedenergistics2.Stored=§dStored
+gui.appliedenergistics2.Cancel=§dCancel
+gui.appliedenergistics2.ETAFormat=§dHH:mm:ss
+gui.appliedenergistics2.Crafting=§dCrafting
+gui.appliedenergistics2.Scheduled=§dScheduled
+gui.appliedenergistics2.CraftingStatus=§dCrafting Status
+gui.appliedenergistics2.FromStorage=§dAvailable
+gui.appliedenergistics2.ToCraft=§dTo Craft
+gui.appliedenergistics2.CraftingPlan=§dCrafting Plan
+gui.appliedenergistics2.Automatic=§dAutomatic
+gui.appliedenergistics2.Start=§dStart
+gui.appliedenergistics2.Missing=§d§cMissing
+gui.appliedenergistics2.Bytes=§dStorage
+gui.appliedenergistics2.Simulation=§dSimulation
+gui.appliedenergistics2.CoProcessors=§dCo Processors
+gui.appliedenergistics2.CraftingCPU=§dCrafting CPU
+gui.appliedenergistics2.NoCraftingCPUs=§dNo Crafting CPUs are Available
+gui.appliedenergistics2.CalculatingWait=§dCalculating Please Wait...
+gui.appliedenergistics2.Clean=§dClean
+gui.appliedenergistics2.InvalidPattern=§dInvalid Pattern
+gui.appliedenergistics2.Range=§dRange
+gui.appliedenergistics2.TransparentFacades=§dTransparent Facades
+gui.appliedenergistics2.TransparentFacadesHint=§dControls visibility of facades while the network tool is on your toolbar.
+gui.appliedenergistics2.CPUs=§dCPU
+gui.appliedenergistics2.NoCraftingJobs=§dNo Crafting Job Active
+gui.appliedenergistics2.FacadeCrafting=§dFacade Crafting
+gui.appliedenergistics2.inWorldCraftingPresses=§dCrafting Presses are found in the center of meteorites which can be found in around the world, they can be located by using a meteorite compass.
+gui.appliedenergistics2.Included=§dIncluded
+gui.appliedenergistics2.Excluded=§dExcluded
+gui.appliedenergistics2.Partitioned=§dPartitioned
+gui.appliedenergistics2.PartitionedOre=§dOre dictionary filter
+gui.appliedenergistics2.Precise=§dPrecise
+gui.appliedenergistics2.Fuzzy=§dFuzzy
+gui.appliedenergistics2.SmallFontCraft=§bCraft
+gui.appliedenergistics2.LargeFontCraft=§d+
+gui.appliedenergistics2.Renamer=§dCustom Name: (Enter to set)
+gui.appliedenergistics2.OreFilterLabel=§dOre dictionary filter
+gui.appliedenergistics2.HoldShiftForTooltip=§dHold shift for extended tooltip
+gui.appliedenergistics2.Nothing=§dNothing
+
+# GUI Tooltips
+gui.tooltips.appliedenergistics2.Stash=§dStore Items
+gui.tooltips.appliedenergistics2.StashDesc=§dReturn items on the crafting grid to network storage.
+gui.tooltips.appliedenergistics2.Substitutions=§dOre-Dict Substitutions
+gui.tooltips.appliedenergistics2.SubstitutionsDescEnabled=§dAllow substitutions of input components.
+gui.tooltips.appliedenergistics2.SubstitutionsDescDisabled=§dPrevent substitutions of input components.
+
+gui.tooltips.appliedenergistics2.PatternSlotConfigTitle=§dSwitch Terminal Mode
+gui.tooltips.appliedenergistics2.PatternSlotConfigInfo=§dSwitch slot pattern mode beween (16 -> 4) and (4 -> 16)
+gui.tooltips.appliedenergistics2.Encode=§dEncode Pattern
+gui.tooltips.appliedenergistics2.EncodeDescription=§dWrite the entered pattern to the current encoded pattern, or to available blank pattern. Hold Shift to transfer directly to your inventory
+
+gui.tooltips.appliedenergistics2.FuzzyMode=§dFuzzy Comparison
+gui.tooltips.appliedenergistics2.FZPercent_25=§dSplit Damage at 25%
+gui.tooltips.appliedenergistics2.FZPercent_50=§dSplit Damage at 50%
+gui.tooltips.appliedenergistics2.FZPercent_75=§dSplit Damage at 75%
+gui.tooltips.appliedenergistics2.FZPercent_99=§dSplit Damage at 99%
+
+gui.tooltips.appliedenergistics2.SortOrder=§dSort Order
+gui.tooltips.appliedenergistics2.SortBy=§dSort By
+gui.tooltips.appliedenergistics2.FZIgnoreAll=§dMatch Any
+gui.tooltips.appliedenergistics2.TransferDirection=§dTransfer Direction
+gui.tooltips.appliedenergistics2.TransferToNetwork=§dTransfer data to Network
+gui.tooltips.appliedenergistics2.TransferToStorageCell=§dTransfer data to Storage Cell
+gui.tooltips.appliedenergistics2.ToggleSortDirection=§dToggle sorting direction
+
+gui.tooltips.appliedenergistics2.StoredItems=§dStored Items
+gui.tooltips.appliedenergistics2.StoredCraftable=§dStored / Craftable
+gui.tooltips.appliedenergistics2.View=§dView
+gui.tooltips.appliedenergistics2.RedstoneMode=§dRedstone Mode
+gui.tooltips.appliedenergistics2.OperationMode=§dOperation Mode
+gui.tooltips.appliedenergistics2.NumberOfItems=§dNumber of items
+gui.tooltips.appliedenergistics2.ItemName=§dItem name
+gui.tooltips.appliedenergistics2.PowerUnits=§dPower Units
+gui.tooltips.appliedenergistics2.IOMode=§dInput/Output Mode
+gui.tooltips.appliedenergistics2.CondenserOutput=§dME Condenser - Output
+gui.tooltips.appliedenergistics2.PartitionStorage=§dPartition Storage
+gui.tooltips.appliedenergistics2.Clear=§dClear
+gui.tooltips.appliedenergistics2.TrashController=§dDeletion via Shift / Space Clicking.
+
+gui.tooltips.appliedenergistics2.InterfaceBlockingMode=§dBlocking Mode
+gui.tooltips.appliedenergistics2.InterfaceCraftingMode=§dCrafting Mode
+gui.tooltips.appliedenergistics2.Trash=§dDestroy Items
+gui.tooltips.appliedenergistics2.MatterBalls=§dCondense Into Matter Balls\n%s per item
+gui.tooltips.appliedenergistics2.Singularity=§dCondense Into Singularities\n%s per item
+gui.tooltips.appliedenergistics2.Read=§dExtract Only
+gui.tooltips.appliedenergistics2.Write=§dInsert Only
+gui.tooltips.appliedenergistics2.ReadWrite=§dBi-Directional
+
+gui.tooltips.appliedenergistics2.AlwaysActive=§dAlways active
+gui.tooltips.appliedenergistics2.ActiveWithoutSignal=§dActive without signal
+gui.tooltips.appliedenergistics2.ActiveWithSignal=§dActive with signal
+gui.tooltips.appliedenergistics2.ActiveOnPulse=§dActivate once per pulse
+gui.tooltips.appliedenergistics2.EmitLevelsBelow=§dEmit when levels are below limit.
+gui.tooltips.appliedenergistics2.EmitLevelAbove=§dEmit when levels are above or equal to limit.
+
+gui.tooltips.appliedenergistics2.SearchMode_Auto=§dAuto Search
+gui.tooltips.appliedenergistics2.SearchMode_Standard=§dStandard Search
+gui.tooltips.appliedenergistics2.SearchMode_NEIAuto=§dNEI Synchronized Auto
+gui.tooltips.appliedenergistics2.SearchMode_NEIStandard=§dNEI Synchronized Standard
+gui.tooltips.appliedenergistics2.SearchMode=§dSearch Box Mode
+
+gui.tooltips.appliedenergistics2.PartitionStorageHint=§dConfigures Partition based on currently stored items.
+gui.tooltips.appliedenergistics2.ClearSettings=§dClear Config/Settings
+gui.tooltips.appliedenergistics2.Craftable=§dCraftable
+gui.tooltips.appliedenergistics2.MoveWhenEmpty=§dMove to output when empty.
+gui.tooltips.appliedenergistics2.MoveWhenWorkIsDone=§dMove to output when work is done.
+gui.tooltips.appliedenergistics2.MoveWhenFull=§dMove to output when full.
+gui.tooltips.appliedenergistics2.Disabled=§dDisabled
+gui.tooltips.appliedenergistics2.Enable=§dEnabled
+gui.tooltips.appliedenergistics2.Blocking=§dDo not push crafting items if inventory contains items.
+gui.tooltips.appliedenergistics2.NonBlocking=§dIgnore the contents of the target inventory.
+gui.tooltips.appliedenergistics2.Craft=§dCrafting Behavior
+gui.tooltips.appliedenergistics2.CraftOnly=§dDo not use stocked items, only craft items while exporting.
+gui.tooltips.appliedenergistics2.CraftEither=§dUse stocked items, or craft items while exporting.
+gui.tooltips.appliedenergistics2.LevelType=§dLevel Type
+gui.tooltips.appliedenergistics2.LevelType_Energy=§dEnergy
+gui.tooltips.appliedenergistics2.LevelType_Item=§dItem
+gui.tooltips.appliedenergistics2.InventoryTweaks=§dInventory Tweaks
+gui.tooltips.appliedenergistics2.Mod=§dMod
+gui.tooltips.appliedenergistics2.TerminalStyle=§dTerminal Style
+gui.tooltips.appliedenergistics2.TerminalStyle_Full=§dFull Screen Terminal
+gui.tooltips.appliedenergistics2.TerminalStyle_Tall=§dTall Centered Terminal
+gui.tooltips.appliedenergistics2.TerminalStyle_Small=§dSmall Centered Terminal
+
+gui.tooltips.appliedenergistics2.DoesntDespawn=§dThis item won't de-spawn.
+gui.tooltips.appliedenergistics2.EmitterMode=§dCrafting Emitter Mode
+gui.tooltips.appliedenergistics2.CraftViaRedstone=§dEmit Redstone to craft item.
+gui.tooltips.appliedenergistics2.EmitWhenCrafting=§dEmit Redstone while item is crafting.
+
+gui.tooltips.appliedenergistics2.ReportInaccessibleItems=§dReport Inaccessible Items
+gui.tooltips.appliedenergistics2.ReportInaccessibleItemsYes=§dYes: Items that cannot be extracted will be visible.
+gui.tooltips.appliedenergistics2.ReportInaccessibleItemsNo=§dNo: Only extractable items will be visible.
+
+gui.tooltips.appliedenergistics2.BlockPlacement=§dBlock Placement
+gui.tooltips.appliedenergistics2.BlockPlacementYes=§dBlocks will be placed as block.
+gui.tooltips.appliedenergistics2.BlockPlacementNo=§dBlocks will be dropped as item.
+
+gui.tooltips.appliedenergistics2.SchedulingMode=§dScheduling Mode
+gui.tooltips.appliedenergistics2.SchedulingModeDefault=§dExport the first item until the network is empty, then try the next ones.
+gui.tooltips.appliedenergistics2.SchedulingModeRoundRobin=§dExport using round robin mode.
+gui.tooltips.appliedenergistics2.SchedulingModeRandom=§dExport items in random mode.
+
+gui.tooltips.appliedenergistics2.ItemsStored=§dItems Stored: %s
+gui.tooltips.appliedenergistics2.ItemsRequestable=§dItems Requestable: %s
+gui.tooltips.appliedenergistics2.P2PFrequency=§dFrequency: %s
+gui.tooltips.appliedenergistics2.OreFilterHint=§dFilter items using ore dictionary names
+gui.tooltips.appliedenergistics2.OreFilter=§dOre Dictionary Filter
+gui.tooltips.appliedenergistics2.SearchStringTooltip=§dRight click to clear the search bar
+gui.tooltips.appliedenergistics2.SaveSearchString=§dSave Search String
+gui.tooltips.appliedenergistics2.SaveSearchStringYes=§dYes
+gui.tooltips.appliedenergistics2.SaveSearchStringNo=§dNo
+gui.tooltips.appliedenergistics2.DoublePattern=§dDouble pattern
+gui.tooltips.appliedenergistics2.DoublePatternHint=§dDouble stack sizes of pattern inputs and output(s)
+gui.tooltips.appliedenergistics2.CraftingStatus=§dCrafting Status
+gui.tooltips.appliedenergistics2.CraftingStatusDesc=§dOpens crafting status window
+gui.tooltips.appliedenergistics2.ToggleMolecularAssemblers=§dToggles showing crafting interfaces only
+gui.tooltips.appliedenergistics2.ToggleMolecularAssemblersDescOff=§dShowing all interfaces
+gui.tooltips.appliedenergistics2.ToggleMolecularAssemblersDescOn=§dShowing only interfaces on molecular assemblers
+gui.tooltips.appliedenergistics2.ToggleShowFullInterfaces=§dToggles showing interfaces with full slots
+gui.tooltips.appliedenergistics2.ToggleShowFullInterfacesOnDesc=§dShowing all interfaces
+gui.tooltips.appliedenergistics2.ToggleShowFullInterfacesOffDesc=§dShowing only interfaces with free slots
+gui.tooltips.appliedenergistics2.HighlightInterface=§dHighlight interface
+gui.tooltips.appliedenergistics2.SearchFieldInputs=§dInputs OR names
+gui.tooltips.appliedenergistics2.SearchFieldOutputs=§dOutputs OR names
+
+# Units
+gui.appliedenergistics2.units.appliedenergstics=§dAE
+gui.appliedenergistics2.units.ic2=§dEnergy Units
+gui.appliedenergistics2.units.mekanism=§dJoules
+gui.appliedenergistics2.units.rotarycraft=§dWatts
+gui.appliedenergistics2.units.thermalexpansion=§dRedstone Flux
+
+# Colors
+gui.appliedenergistics2.White=§dWhite
+gui.appliedenergistics2.Orange=§dOrange
+gui.appliedenergistics2.Magenta=§dMagenta
+gui.appliedenergistics2.LightBlue=§dLight Blue
+gui.appliedenergistics2.Yellow=§dYellow
+gui.appliedenergistics2.Lime=§dLime
+gui.appliedenergistics2.Pink=§dPink
+gui.appliedenergistics2.Gray=§dGray
+gui.appliedenergistics2.LightGray=§dLight Gray
+gui.appliedenergistics2.Cyan=§dCyan
+gui.appliedenergistics2.Purple=§dPurple
+gui.appliedenergistics2.Blue=§dBlue
+gui.appliedenergistics2.Brown=§dBrown
+gui.appliedenergistics2.Green=§dGreen
+gui.appliedenergistics2.Red=§dRed
+gui.appliedenergistics2.Black=§dBlack
+gui.appliedenergistics2.Fluix=§dFluix
+
+# Waila
+waila.appliedenergistics2.Crafting=§dCrafting
+waila.appliedenergistics2.DeviceOnline=§dDevice Online
+waila.appliedenergistics2.DeviceOffline=§dDevice Offline
+waila.appliedenergistics2.DeviceMissingChannel=§dDevice Missing Channel
+waila.appliedenergistics2.Locked=§dLocked
+waila.appliedenergistics2.Unlocked=§dUnlocked
+waila.appliedenergistics2.Showing=§dShowing
+waila.appliedenergistics2.Contains=§dContains
+waila.appliedenergistics2.Channels=§d%1$d of %2$d Channels
+waila.appliedenergistics2.P2PUnlinked=§dUnlinked
+waila.appliedenergistics2.P2PInputOneOutput=§dLinked (Input Side)
+waila.appliedenergistics2.P2PInputManyOutputs=§dLinked (Input Side) - %d Outputs
+waila.appliedenergistics2.P2POutput=§dLinked (Output Side)
+waila.appliedenergistics2.Booting=§dNetwork is booting
+
+# Items
+item.appliedenergistics2.ItemBasicStorageCell.1k.name=§d1k ME Storage Cell
+item.appliedenergistics2.ItemBasicStorageCell.4k.name=§d4k ME Storage Cell
+item.appliedenergistics2.ItemBasicStorageCell.16k.name=§d16k ME Storage Cell
+item.appliedenergistics2.ItemBasicStorageCell.64k.name=§d64k ME Storage Cell
+item.appliedenergistics2.ItemCreativeStorageCell.name=§dCreative ME Storage Cell
+item.appliedenergistics2.ItemEncodedPattern.name=§dEncoded Pattern
+item.appliedenergistics2.ItemViewCell.name=§dView Cell
+item.appliedenergistics2.ItemFacade.name=§dCable Facade
+
+item.appliedenergistics2.ItemCrystalSeed.Certus.name=§dCertus Quartz Seed
+item.appliedenergistics2.ItemCrystalSeed.Nether.name=§dNether Quartz Seed
+item.appliedenergistics2.ItemCrystalSeed.Fluix.name=§dFluix Seed
+
+item.appliedenergistics2.ItemPart.InvalidType.name=§dDisabled Item
+item.appliedenergistics2.ItemMaterial.InvalidType.name=§dThis Item Is Disabled.
+
+item.appliedenergistics2.ItemMaterial.BlankPattern.name=§dBlank Pattern
+item.appliedenergistics2.ItemMaterial.FormationCore.name=§dFormation Core
+item.appliedenergistics2.ItemMaterial.AnnihilationCore.name=§dAnnihilation Core
+item.appliedenergistics2.ItemMaterial.BasicCard.name=§dBasic Card
+item.appliedenergistics2.ItemMaterial.AdvCard.name=§dAdvanced Card
+
+
+item.appliedenergistics2.ItemMaterial.CardCapacity.name=§dCapacity Card
+item.appliedenergistics2.ItemMaterial.CardPatternCapacity.name=§dPattern Capacity Card
+item.appliedenergistics2.ItemMaterial.CardFuzzy.name=§dFuzzy Card
+item.appliedenergistics2.ItemMaterial.CardInverter.name=§dInverter Card
+item.appliedenergistics2.ItemMaterial.CardRedstone.name=§dRedstone Card
+item.appliedenergistics2.ItemMaterial.CardSpeed.name=§dAcceleration Card
+item.appliedenergistics2.ItemMaterial.CardOreFilter.name=§dOredictionary Filter Card
+
+item.appliedenergistics2.ItemMaterial.Cell2SpatialPart.name=§d2³ Spatial Component
+item.appliedenergistics2.ItemMaterial.Cell16SpatialPart.name=§d16³ Spatial Component
+item.appliedenergistics2.ItemMaterial.Cell128SpatialPart.name=§d128³ Spatial Component
+
+item.appliedenergistics2.ItemMaterial.Cell1kPart.name=§d1k ME Storage Component
+item.appliedenergistics2.ItemMaterial.Cell4kPart.name=§d4k ME Storage Component
+item.appliedenergistics2.ItemMaterial.Cell16kPart.name=§d16k ME Storage Component
+item.appliedenergistics2.ItemMaterial.Cell64kPart.name=§d64k ME Storage Component
+
+item.appliedenergistics2.ItemMaterial.CertusQuartzCrystal.name=§dCertus Quartz Crystal
+item.appliedenergistics2.ItemMaterial.CertusQuartzCrystalCharged.name=§dCharged Certus Quartz Crystal
+item.appliedenergistics2.ItemMaterial.CertusQuartzDust.name=§dCertus Quartz Dust
+item.appliedenergistics2.ItemMaterial.EmptyStorageCell.name=§dME Storage Housing
+item.appliedenergistics2.ItemMaterial.EnderDust.name=§dEnder Dust
+
+item.appliedenergistics2.ItemMaterial.Flour.name=§dFlour
+item.appliedenergistics2.ItemMaterial.FluixCrystal.name=§dFluix Crystal
+item.appliedenergistics2.ItemMaterial.FluixDust.name=§dFluix Dust
+item.appliedenergistics2.ItemMaterial.FluixPearl.name=§dFluix Pearl
+
+item.appliedenergistics2.ItemMaterial.GoldDust.name=§dGold Dust
+item.appliedenergistics2.ItemMaterial.IronDust.name=§dIron Dust
+item.appliedenergistics2.ItemMaterial.IronNugget.name=§dIron Nugget
+
+
+item.appliedenergistics2.ItemMaterial.MatterBall.name=§dMatter Ball
+item.appliedenergistics2.ItemMaterial.NetherQuartzDust.name=§dNether Quartz Dust
+item.appliedenergistics2.ItemMaterial.PurifiedCertusQuartzCrystal.name=§dPure Certus Quartz Crystal
+item.appliedenergistics2.ItemMaterial.PurifiedFluixCrystal.name=§dPure Fluix Crystal
+item.appliedenergistics2.ItemMaterial.PurifiedNetherQuartzCrystal.name=§dPure Nether Quartz Crystal
+item.appliedenergistics2.ItemMaterial.QESingularity.name=§dQuantum Entangled Singularity
+item.appliedenergistics2.ItemMaterial.Silicon.name=§dSilicon
+item.appliedenergistics2.ItemMaterial.Singularity.name=§dSingularity
+item.appliedenergistics2.ItemMaterial.Wireless.name=§dWireless Receiver
+item.appliedenergistics2.ItemMaterial.WirelessBooster.name=§dWireless Booster
+item.appliedenergistics2.ItemMaterial.WoodenGear.name=§dWooden Gear
+
+item.appliedenergistics2.ItemMaterial.NamePress.name=§dInscriber Name Press
+item.appliedenergistics2.ItemMaterial.EngProcessorPress.name=§dInscriber Engineering Press
+item.appliedenergistics2.ItemMaterial.CalcProcessorPress.name=§dInscriber Calculation Press
+item.appliedenergistics2.ItemMaterial.LogicProcessorPress.name=§dInscriber Logic Press
+item.appliedenergistics2.ItemMaterial.SiliconPress.name=§dInscriber Silicon Press
+
+item.appliedenergistics2.ItemMaterial.EngProcessorPrint.name=§dPrinted Engineering Circuit
+item.appliedenergistics2.ItemMaterial.CalcProcessorPrint.name=§dPrinted Calculation Circuit
+item.appliedenergistics2.ItemMaterial.LogicProcessorPrint.name=§dPrinted Logic Circuit
+item.appliedenergistics2.ItemMaterial.SiliconPrint.name=§dPrinted Silicon
+
+item.appliedenergistics2.ItemMaterial.EngProcessor.name=§dEngineering Processor
+item.appliedenergistics2.ItemMaterial.CalcProcessor.name=§dCalculation Processor
+item.appliedenergistics2.ItemMaterial.LogicProcessor.name=§dLogic Processor
+item.appliedenergistics2.ItemMaterial.LogicProcessorAsm.name=§dUnfinished Logic Processor
+
+item.appliedenergistics2.ItemMaterial.SkyDust.name=§dSky Stone Dust
+item.appliedenergistics2.ItemMaterial.CardCrafting.name=§dCrafting Card
+
+item.appliedenergistics2.ItemPart.FormationPlane.name=§dME Formation Plane
+item.appliedenergistics2.ItemPart.AnnihilationPlane.name=§dME Annihilation Plane
+item.appliedenergistics2.ItemPart.IdentityAnnihilationPlane.name=§dME Identity Annihilation Plane
+item.appliedenergistics2.ItemPart.CableAnchor.name=§dCable Anchor
+item.appliedenergistics2.ItemPart.CableCovered.name=§dME Covered Cable
+item.appliedenergistics2.ItemPart.CableGlass.name=§dME Glass Cable
+item.appliedenergistics2.ItemPart.CableSmart.name=§dME Smart Cable
+item.appliedenergistics2.ItemPart.CableDense.name=§dME Dense Smart Cable
+item.appliedenergistics2.ItemPart.CableDenseCovered.name=§dME Dense Covered Cable
+item.appliedenergistics2.ItemPart.CableUltraDenseCovered.name=§dME Backbone Covered Cable
+item.appliedenergistics2.ItemPart.CableUltraDenseSmart.name=§dME Backbone Smart Cable
+item.appliedenergistics2.ItemPart.StorageMonitor.name=§dME Storage Monitor
+item.appliedenergistics2.ItemPart.ConversionMonitor.name=§dME Conversion Monitor
+item.appliedenergistics2.ItemPart.SemiDarkMonitor.name=§dIlluminated Panel
+item.appliedenergistics2.ItemPart.Monitor.name=§dBright Illuminated Panel
+item.appliedenergistics2.ItemPart.DarkMonitor.name=§dDark Illuminated Panel
+
+item.appliedenergistics2.ItemPart.ExportBus.name=§dME Export Bus
+item.appliedenergistics2.ItemPart.ImportBus.name=§dME Import Bus
+item.appliedenergistics2.ItemPart.Interface.name=§dME Interface
+item.appliedenergistics2.ItemPart.LevelEmitter.name=§dME Level Emitter
+item.appliedenergistics2.ItemPart.P2PTunnel.name=§dP2P Tunnel
+item.appliedenergistics2.ItemPart.PatternTerminal.name=§dME Pattern Terminal
+item.appliedenergistics2.ItemPart.PatternTerminalEx.name=§dME Processing Pattern Terminal
+item.appliedenergistics2.ItemPart.QuartzFiber.name=§dQuartz Fiber
+item.appliedenergistics2.ItemPart.StorageBus.name=§dME Storage Bus
+item.appliedenergistics2.ItemPart.Terminal.name=§dME Terminal
+item.appliedenergistics2.ItemPart.CraftingTerminal.name=§dME Crafting Terminal
+item.appliedenergistics2.ItemPart.InterfaceTerminal.name=§dME Interface Terminal
+item.appliedenergistics2.ItemPart.InvertedToggleBus.name=§dME Inverted Toggle Bus
+item.appliedenergistics2.ItemPart.ToggleBus.name=§dME Toggle Bus
+item.appliedenergistics2.ItemPart.CraftingMonitor.name=§dME Crafting Monitor
+
+item.appliedenergistics2.ItemSpatialStorageCell.128Cubed.name=§d128³ Spatial Storage Cell
+item.appliedenergistics2.ItemSpatialStorageCell.16Cubed.name=§d16³ Spatial Storage Cell
+item.appliedenergistics2.ItemSpatialStorageCell.2Cubed.name=§d2³ Spatial Storage Cell
+
+item.appliedenergistics2.ToolCertusQuartzAxe.name=§dCertus Quartz Axe
+item.appliedenergistics2.ToolCertusQuartzCuttingKnife.name=§dCertus Quartz Cutting Knife
+item.appliedenergistics2.ToolCertusQuartzHoe.name=§dCertus Quartz Hoe
+item.appliedenergistics2.ToolCertusQuartzPickaxe.name=§dCertus Quartz Pickaxe
+item.appliedenergistics2.ToolCertusQuartzSpade.name=§dCertus Quartz Shovel
+item.appliedenergistics2.ToolCertusQuartzSword.name=§dCertus Quartz Sword
+item.appliedenergistics2.ToolCertusQuartzWrench.name=§dCertus Quartz Wrench
+
+item.appliedenergistics2.ToolNetherQuartzAxe.name=§dNether Quartz Axe
+item.appliedenergistics2.ToolNetherQuartzCuttingKnife.name=§dNether Quartz Cutting Knife
+item.appliedenergistics2.ToolNetherQuartzHoe.name=§dNether Quartz Hoe
+item.appliedenergistics2.ToolNetherQuartzPickaxe.name=§dNether Quartz Pickaxe
+item.appliedenergistics2.ToolNetherQuartzSpade.name=§dNether Quartz Shovel
+item.appliedenergistics2.ToolNetherQuartzSword.name=§dNether Quartz Sword
+item.appliedenergistics2.ToolNetherQuartzWrench.name=§dNether Quartz Wrench
+
+item.appliedenergistics2.ItemPaintBall.name=§dPaint Ball
+item.appliedenergistics2.ToolPortableCell.name=§dPortable Cell
+item.appliedenergistics2.ToolNetworkTool.name=§dNetwork Tool
+item.appliedenergistics2.ToolChargedStaff.name=§dCharged Staff
+item.appliedenergistics2.ToolEntropyManipulator.name=§dEntropy Manipulator
+item.appliedenergistics2.ToolMassCannon.name=§dMatter Cannon
+item.appliedenergistics2.ToolMemoryCard.name=§dMemory Card
+item.appliedenergistics2.ToolColorApplicator.name=§dColor Applicator
+item.appliedenergistics2.ToolWirelessTerminal.name=§dWireless Terminal
+item.appliedenergistics2.ToolBiometricCard.name=§dBiometric Card
+
+item.appliedenergistics2.ToolDebugCard.name=§dDev.DebugCard
+item.appliedenergistics2.ToolReplicatorCard.name=§dDev.ReplicatorCard
+
+# Commands
+commands.ae2.usage=§dCommands provided by Applied Energistics 2 - use /ae2 list for a list, and /ae2 help _____ for help with a command.
+commands.ae2.permissions=§dYou do not have adequate permissions to run this command.
+commands.ae2.ChunkLogger=§dToggles Chunk Loading and unloading to the server log. ( OP )
+commands.ae2.ChunkLoggerOn=§dChunk Logging is now on
+commands.ae2.ChunkLoggerOff=§dChunk Logging is now off
+commands.ae2.Supporters=§dDisplays a list of AE2 Supporters
+commands.ae2.Profiler=§dGrid profiling command, pass <x y z [dimension]> of some tile in the grid to start/stop profiling
+commands.ae2.ProfilerStart=§dProfiling started
+commands.ae2.ProfilerFailed=§dNo AE tile here
+commands.ae2.ProfilerGridDown=§dThis grid is offline
+commands.ae2.ProfilerStop=§dAverage nanoseconds taken by this grid per tick:
+commands.ae2.ProfilerFailedDim=§dNo such dimension
+commands.ae2.ToggleFullAccess=§dToggle OP full AE access ignoring security terminal settings
+
+# Achievements
+achievement.ae2.Compass=§dMeteorite Hunter
+achievement.ae2.Compass.desc=§dCraft a Meteorite Compass
+achievement.ae2.Presses=§dUnknown Technology
+achievement.ae2.Presses.desc=§dFind a Processor Press
+achievement.ae2.SpatialIO=§dSpatial Coordination
+achievement.ae2.SpatialIO.desc=§dCraft a Spatial IO Port
+achievement.ae2.SpatialIOExplorer=§dTo boldly go
+achievement.ae2.SpatialIOExplorer.desc=§dGet stored in a spatial storage cell
+achievement.ae2.StorageCell=§dBetter Than Chests
+achievement.ae2.StorageCell.desc=§dCraft a Storage Cell
+achievement.ae2.IOPort=§dStorage Cell Shuffle
+achievement.ae2.IOPort.desc=§dCraft an IO Port
+achievement.ae2.CraftingTerminal=§dA (Much) Bigger Table
+achievement.ae2.CraftingTerminal.desc=§dCraft a Crafting Terminal
+achievement.ae2.PatternTerminal=§dCrafting Maestro
+achievement.ae2.PatternTerminal.desc=§dCraft a Pattern Terminal
+achievement.ae2.ChargedQuartz=§dShocking
+achievement.ae2.ChargedQuartz.desc=§dFind Charged Quartz
+achievement.ae2.Fluix=§dUnnatural
+achievement.ae2.Fluix.desc=§dCreate Fluix Crystals
+achievement.ae2.Charger=§dFluix Production
+achievement.ae2.Charger.desc=§dCraft a Charger
+achievement.ae2.CrystalGrowthAccelerator=§dAccelerator is an understatement
+achievement.ae2.CrystalGrowthAccelerator.desc=§dCraft a Crystal Growth Accelerator
+achievement.ae2.GlassCable=§dFluix Energy Connection
+achievement.ae2.GlassCable.desc=§dCraft ME Glass Cable
+achievement.ae2.Networking1=§dNetwork Apprentice
+achievement.ae2.Networking1.desc=§dReach 8 channels using devices on a network.
+achievement.ae2.Controller=§dNetworking Switchboard
+achievement.ae2.Controller.desc=§dCraft a Controller
+achievement.ae2.Networking2=§dNetwork Engineer
+achievement.ae2.Networking2.desc=§dReach 128 channels using devices on a network.
+achievement.ae2.Networking3=§dNetwork Administrator
+achievement.ae2.Networking3.desc=§dReach 2048 channels using devices on a network.
+achievement.ae2.P2P=§dPoint to Point Networking
+achievement.ae2.P2P.desc=§dCraft a P2P Tunnel
+achievement.ae2.Recursive=§dRecursive Networking
+achievement.ae2.Recursive.desc=§dPlace an Interface on a storage Bus.
+achievement.ae2.CraftingCPU=§dNext Gen Crafting
+achievement.ae2.CraftingCPU.desc=§dCraft a Crafting Unit
+achievement.ae2.Facade=§dNetwork Aesthetics
+achievement.ae2.Facade.desc=§dCraft a Cable Facade
+achievement.ae2.NetworkTool=§dNetwork Diagnostics
+achievement.ae2.NetworkTool.desc=§dCraft a Network Tool
+achievement.ae2.PortableCell=§dStorage Nomad
+achievement.ae2.PortableCell.desc=§dCraft a Portable Cell
+achievement.ae2.StorageBus=§dLimitless Potential
+achievement.ae2.StorageBus.desc=§dCraft a Storage Bus
+achievement.ae2.QNB=§dQuantum Tunneling
+achievement.ae2.QNB.desc=§dCraft a Quantum Link
+
+# Stats
+stat.ae2.ItemsInserted=§dItems added to ME Storage
+stat.ae2.ItemsExtracted=§dItems extracted from ME Storage
+stat.ae2.TurnedCranks=§dTurned Cranks
+
+# Keys
+key.appliedenergistics2.category=§dApplied Energistics 2
+key.toggle_focus.desc=§dToggle search box focus
