@@ -1,3 +1,3 @@
-# endernon-gtnh
+# endernon-greg
 
-Endernon Darkmode but GTNH Edition
+Endernon Darkmode but general gregging edition
