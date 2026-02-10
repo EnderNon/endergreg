@@ -1,0 +1,10 @@
+{
+  "colors": {
+    "guiTint": {
+      "enableGUITint": false
+    },
+    "textColor": {
+      "title": "bfbfbf"
+    }
+  }
+}

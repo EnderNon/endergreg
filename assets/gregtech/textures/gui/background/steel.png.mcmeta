@@ -1,0 +1,17 @@
+{
+  "colors": {
+    "guiTint": {
+      "enableGUITint": true,
+      "Gui Metal": "494949"
+    },
+    "textColor": {
+      "title": "E96EFF",
+      "title_white": "E96EFF",
+      "text_white": "E96EFF",
+      "text_gray": "E96EFF",
+      "text_red": "E96EFF",
+      "nei": "E96EFF",
+      "nei_overlay_yellow": "0xE96EFF"
+    }
+  }
+}
