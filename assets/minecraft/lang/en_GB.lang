@@ -1,1 +1,16 @@
 container.crafting=
+container.inventory=§5Inventory
+container.hopper=§5Item Hopper
+container.dispenser=§5Dispenser
+container.dropper=§5Dropper
+container.furnace=§5Furnace
+container.enchant=§5Enchant
+container.repair=§5Repair & Name
+container.repair.cost=Enchantment Cost: %1$d
+container.repair.expensive=§5Too Expensive!
+container.creative=§5Item Selection
+container.brewing=§5Brewing Stand
+container.chest=§5Chest
+container.chestDouble=§5Large Chest
+container.minecart=§5Minecart
+container.enderchest=§5Ender Chest
