@@ -1,7 +1,23 @@
 {
   "colors": {
     "guiTint": {
-      "enableGUITint": false
+      "enableGUITint": false,
+			"Black":			"2C2C2C",
+			"Red":				"EB4545",
+			"Green":			"439D31",
+			"Brown":			"554F38",
+			"Blue":				"485BD8",
+			"Purple":			"8A3BDE",
+			"Cyan":				"3BDED9",
+			"Light Gray":	"AAAAAA",
+			"Gray":				"5E5E5E",
+			"Pink":				"ED96F1",
+			"Lime":				"42F54F",
+			"Yellow":			"EAF542",
+			"Light Blue":	"62BDFF",
+			"Magenta":		"E531EC",
+			"Orange":			"EC9A31",
+			"White":			"FFFFFF"
     },
     "textColor": {
       "title": "bfbfbf"

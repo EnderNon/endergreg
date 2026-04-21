@@ -1,0 +1,15 @@
+{
+  "colors": {
+	"textColor": {
+		"title":			"B97AFF",
+		"title_white":		"B97AFF",
+		"text_light_gray":	"B97AFF",
+		"text_gray":		"B97AFF",
+		"text_red":			"9b5EFF",
+		"text_white":		"9b5EFF",
+		"nei":				"B97AFF",
+		"nei_overlay":		"B97AFF",
+		"value":			"9b5EFF"
+	}
+  }
+}
